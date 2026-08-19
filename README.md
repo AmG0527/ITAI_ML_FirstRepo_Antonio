@@ -1,2 +1,2 @@
 # ITAI_ML_FirstRepo_Antonio
-the intro assignment for the course im taking at hcc
+This is my first GitHub file for the Classic Machine Learning course.
